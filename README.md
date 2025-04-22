@@ -18,11 +18,7 @@ User-friendly interface (optional, if there's a GUI)
 🛠️ Technologies Used
 Frontend: (e.g., HTML, CSS, JavaScript)
 
-Backend: (e.g., PHP, Java, Python)
-
 Database: MySQL / Oracle / SQLite (choose based on your project)
-
-Tools: XAMPP / WAMP / JDBC / phpMyAdmin / etc.
 
 📂 Project Structure
 /database/ – SQL files for database schema and sample data
@@ -37,10 +33,6 @@ README.md – Project description and instructions
 Import the SQL file into your MySQL server using phpMyAdmin or command line.
 
 Configure database connection settings in the backend code.
-
-Run the project using XAMPP/WAMP or your chosen stack.
-
-Access the system via your web browser or application IDE.
 
 📖 Purpose
 This project was built to demonstrate understanding of DBMS concepts like:
